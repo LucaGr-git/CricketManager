@@ -1,6 +1,7 @@
 # 🏏 CricketManager
 
-> Designed exclusively for Windows Systems 
+> Designed exclusively for Windows Systems
+---
 **CricketManager** is a graphical user interface (GUI) proof-of-concept (POC) application built using **Python** with the **Tkinter** library developed in 2020. It is designed to help manage and analyse player stats for school cricket teams, making it easier for coaches, players, and support staff to track performance and team data.
 > Originally developed for **Parade College’s** cricket team in 2020, the application provides an simple interface to input, view, and manage player and match statistics.
 ---
