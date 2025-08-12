@@ -1,12 +1,13 @@
 # 🏏 CricketManager
 
 **CricketManager** is a graphical user interface (GUI) proof-of-concept (POC) application built using **Python** with the **Tkinter** library. It is designed to help manage and analyse player stats for school cricket teams, making it easier for coaches, players, and support staff to track performance and team data.
-> Originally developed for **Parade College’s** cricket team, the application provides an simple interface to input, view, and manage player and match statistics.
+> Originally developed for **Parade College’s** cricket team in 2020, the application provides an simple interface to input, view, and manage player and match statistics.
 ---
 
 ## 📸 Preview
 
-<img width="662" height="438" alt="CricketManager UI Preview" src="https://github.com/user-attachments/assets/27b04ae3-49a0-4565-84e9-ea33cd9be2f8" />
+<img width="1157" height="679" alt="image" src="https://github.com/user-attachments/assets/5fd65e39-0ee3-4ec4-bd04-9c8c7d9161a8" />
+
 
 ---
 
@@ -14,18 +15,21 @@
 
 - **Player Management**  
   Add, edit, and remove players from the roster with individual stats.
+<img width="1160" height="684" alt="image" src="https://github.com/user-attachments/assets/fda38c7a-0b2a-4488-a015-dff8ced82de3" />
 
 - **Match Records**  
   Record match performances, including runs, wickets, and other key metrics.
 
 - **Statistics Dashboard / Home Page**  
   View a leaderboard of wither runs or wickets in the home page
-  
+<img width="662" height="438" alt="CricketManager Leaderboard UI Preview" src="https://github.com/user-attachments/assets/27b04ae3-49a0-4565-84e9-ea33cd9be2f8" />
 - **Persistent Data Storage**  
   Save and load data from local file storage to maintain team history.
 
 - **User-Friendly Interface**  
-  Simple and accessible GUI built with Tkinter for all users. 
+  Simple and accessible GUI built with Tkinter for all users.
+<img width="1155" height="683" alt="image" src="https://github.com/user-attachments/assets/d56cb349-7ffb-4112-bf67-855302ff963d" />
+
 ---
 
 ---
